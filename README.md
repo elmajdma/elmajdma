@@ -3,7 +3,7 @@ I am a Geologist,  Data Scientist and machine learning researcher. I am passiona
 
 <h3 align="left">Connect with me:</h3>
 
-| [LinkedIn ](www.linkedin.com/in/elmajdma-biostrat)  | I share my progress in data science, Ml and AI in geoscience 
+| [LinkedIn ](https://www.linkedin.com/in/elmajdma-biostrat/)  | I share my progress in data science, Ml and AI in geoscience 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmajdma&label=Profile%20views&color=0e75b6&style=flat" alt="elmajdma" /> </p>
 
